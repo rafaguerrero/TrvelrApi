@@ -1,0 +1,10 @@
+com/trvelr/domain/impl/TravelerRepositoryImpl.class
+com/trvelr/entity/Trip.class
+com/trvelr/utils/UrlUtils.class
+com/trvelr/domain/TripRepository.class
+com/trvelr/domain/TravelerRepository.class
+com/trvelr/entity/Rating.class
+com/trvelr/entity/Stars.class
+com/trvelr/entity/TravelerStatus.class
+com/trvelr/domain/impl/TripRepositoryImpl.class
+com/trvelr/entity/Traveler.class

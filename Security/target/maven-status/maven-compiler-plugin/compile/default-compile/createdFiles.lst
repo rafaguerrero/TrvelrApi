@@ -1,0 +1,6 @@
+com/trvelr/security/entity/Securable.class
+com/trvelr/security/entity/Token.class
+com/trvelr/security/entity/PermissionRepositoryImpl.class
+com/trvelr/security/entity/SecurableImpl.class
+com/trvelr/security/PermissionRepository.class
+com/trvelr/security/StlRole.class

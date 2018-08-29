@@ -1,0 +1,12 @@
+com/trvelr/web/services/PublishController.class
+com/trvelr/web/services/RegisterController.class
+com/trvelr/web/services/LoginController.class
+com/trvelr/web/services/UserService.class
+com/trvelr/web/services/FollowController.class
+com/trvelr/web/services/HomepageController.class
+com/trvelr/web/services/SearchController.class
+com/trvelr/web/services/TravelerController.class
+com/trvelr/web/services/TripController.class
+com/trvelr/web/services/RateController.class
+com/trvelr/web/services/DeleteController.class
+com/trvelr/web/services/TagsController.class

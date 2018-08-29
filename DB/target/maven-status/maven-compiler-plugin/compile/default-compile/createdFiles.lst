@@ -1,0 +1,6 @@
+com/trvelr/db/UserDB.class
+com/trvelr/db/impl/UserDBImpl.class
+com/trvelr/db/TravelerDB.class
+com/trvelr/db/impl/TripDBImpl.class
+com/trvelr/db/TripDB.class
+com/trvelr/db/impl/TravelerDBImpl.class
